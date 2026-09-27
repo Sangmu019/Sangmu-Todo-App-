@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { jsxDEV as _jsxDEV } from "react/jsx-dev-runtime";
+import Swal from 'sweetalert2'
 
 const categoryColors = {
   Work: 'primary',
