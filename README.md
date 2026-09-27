@@ -65,7 +65,7 @@ src/
 
 ## Screenshots
 
-> Add 2–3 screenshots of the running app here before submitting, e.g.:
+> Adding  2–3 screenshots of the running app
 >
 > ![Task list with categories](./screenshots/Home.png)
 > ![Filtering tasks](./screenshots/Filter.png)
